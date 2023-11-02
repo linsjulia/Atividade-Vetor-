@@ -13,7 +13,7 @@
 
 		int i;
 		
-		printf("Digite 7 numeros de sua escolha:");
+		printf("Digite na mesma linha com espaço 7 numeros de sua escolha:\n");
 		for(i = 0; i<7; i++){
 		scanf("%d", &valores[i]);
 		}
